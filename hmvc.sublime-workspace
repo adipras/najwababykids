@@ -1,0 +1,965 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"su",
+				"sub_cat_id"
+			],
+			[
+				"sto",
+				"store_cat_assign"
+			],
+			[
+				"num",
+				"num_items_in_sub_cat"
+			],
+			[
+				"cat",
+				"cat_id"
+			],
+			[
+				"cou",
+				"count_where"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"num_",
+				"num_sub_cats_for_item"
+			],
+			[
+				"po",
+				"potential_sub_cats"
+			],
+			[
+				"_get",
+				"_get_cat_id_from_cat_url	(store_categories.php)"
+			],
+			[
+				"sub",
+				"sub_cat_id"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"_get_item",
+				"_get_items_segments	(store_categories.php)"
+			],
+			[
+				"site",
+				"site_settings	(store_categories.php)"
+			],
+			[
+				"stoe",
+				"store_categories"
+			],
+			[
+				"items",
+				"items_segments"
+			],
+			[
+				"bas",
+				"base_url"
+			],
+			[
+				"site_se",
+				"site_settings"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"st",
+				"store_cat_assign"
+			],
+			[
+				"store",
+				"store_cat_assign	(store_categories.php)"
+			],
+			[
+				"ho",
+				"homepage_url"
+			],
+			[
+				"bre",
+				"breadcrumbs_array"
+			],
+			[
+				"brea",
+				"breadcrumbs_array	(store_items.php)"
+			],
+			[
+				"bra",
+				"breadcrumbs_data"
+			],
+			[
+				"da",
+				"breadcrumbs_data"
+			],
+			[
+				"item",
+				"item_title"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"ol",
+				"oldest_user"
+			],
+			[
+				"ec",
+				"echo	echo \"…\""
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"get_",
+				"get_oldest_user"
+			],
+			[
+				"key",
+				"key_with_highest_value"
+			],
+			[
+				"ke",
+				"key_with_highest_value"
+			],
+			[
+				"tar",
+				"target_array"
+			],
+			[
+				"sho",
+				"showing_statement	(custom_pagination.php)"
+			],
+			[
+				"valu",
+				"value3"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"val",
+				"value3"
+			],
+			[
+				"to",
+				"total_rows"
+			],
+			[
+				"get",
+				"get_limit"
+			],
+			[
+				"off",
+				"offset_segment	(custom_pagination.php)"
+			],
+			[
+				"targe",
+				"target_base_url	(custom_pagination.php)"
+			],
+			[
+				"pagi",
+				"pagination_data"
+			],
+			[
+				"use",
+				"use_limit"
+			],
+			[
+				"_gene",
+				"_generate_mysql_query"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"was",
+				"was_price"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"smal",
+				"small_pic_path"
+			],
+			[
+				"up",
+				"update_id"
+			],
+			[
+				"article",
+				"article_url"
+			],
+			[
+				"page",
+				"page_url	(blog.php)"
+			],
+			[
+				"sty",
+				"style	(home.php)"
+			],
+			[
+				"tu",
+				"thumbnail_path"
+			],
+			[
+				"ar",
+				"article_preview"
+			],
+			[
+				"thu",
+				"thumbnail_path"
+			],
+			[
+				"bl",
+				"blog_pics	(blog.php)"
+			],
+			[
+				"pi",
+				"picture"
+			],
+			[
+				"date",
+				"date_published"
+			],
+			[
+				"time",
+				"timedate	(blog.php)"
+			],
+			[
+				"mod",
+				"module	(blog.php)"
+			],
+			[
+				"sm",
+				"small_pic_path"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"fil",
+				"file_ext"
+			],
+			[
+				"fi",
+				"file_ext"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ran",
+				"randomString"
+			],
+			[
+				"ca",
+				"characters"
+			],
+			[
+				"fu",
+				"fun	function …"
+			],
+			[
+				"mak",
+				"make_timestamp_from_datepicker_us"
+			],
+			[
+				"ma",
+				"make_timestamp_from_datepicker_us"
+			],
+			[
+				"make",
+				"make_timestamp_from_datepicker_us	(timedate.php)"
+			],
+			[
+				"no",
+				"nowtime"
+			],
+			[
+				"modu",
+				"Modules"
+			],
+			[
+				"pa",
+				"page_url	(default_module.php)"
+			],
+			[
+				"mode",
+				"module"
+			],
+			[
+				"fis",
+				"first_bit"
+			],
+			[
+				"get_where",
+				"get_where_custom	(webpages.php)"
+			],
+			[
+				"page_",
+				"page_url"
+			],
+			[
+				"sp",
+				"span6"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"cat_",
+				"cat_url	(store_categories.php)"
+			],
+			[
+				"ur",
+				"url_title($row"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"ite",
+				"item_url"
+			],
+			[
+				"pare",
+				"parent_cat_id"
+			],
+			[
+				"paren",
+				"parent_cat_id"
+			],
+			[
+				"get_wh",
+				"get_where_custom	(store_categories.php)"
+			],
+			[
+				"arr",
+				"array_diff"
+			],
+			[
+				"store_cat",
+				"store_cat_assign"
+			],
+			[
+				"lo",
+				"long_cat_title"
+			],
+			[
+				"p",
+				"parent_cat_title"
+			],
+			[
+				"par",
+				"parent_cat_title	(store_categories.php)"
+			],
+			[
+				"_ge",
+				"_get_cat_title	(store_categories.php)"
+			],
+			[
+				"ass",
+				"assigned_categories"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"nu",
+				"num_sub_cats"
+			],
+			[
+				"n",
+				"num_sub_cats"
+			],
+			[
+				"get_w",
+				"get_where_custom"
+			],
+			[
+				"str",
+				"store_categories"
+			],
+			[
+				"stor",
+				"store_categories"
+			],
+			[
+				"has",
+				"hashed_name"
+			],
+			[
+				"upda",
+				"update_pword	(store_accounts.php)"
+			],
+			[
+				"update",
+				"update_pword"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"teh",
+				"the_date"
+			],
+			[
+				"the",
+				"the_date"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"y",
+				"year"
+			],
+			[
+				"subs",
+				"substr"
+			],
+			[
+				"dat",
+				"date_made	(store_accounts.php)"
+			],
+			[
+				"co",
+				"columns_name"
+			],
+			[
+				"col",
+				"columns_name"
+			],
+			[
+				"add",
+				"additional_dd_code"
+			],
+			[
+				"colo",
+				"color_option"
+			],
+			[
+				"ba",
+				"background-color	(add_to_cart.php)"
+			],
+			[
+				"Up",
+				"update_id"
+			],
+			[
+				"dele",
+				"delete_url"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"Submit",
+				"Submit	(update.php)"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"bi",
+				"big_pic_path"
+			],
+			[
+				"fet",
+				"fetch_data_from_db"
+			],
+			[
+				"bic",
+				"big_pic	(store_items.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/modules/templates/views/homepage_content.php",
+			"settings":
+			{
+				"buffer_size": 3864,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/modules/templates/views/public_bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 3668,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/hmvc",
+		"/C/xampp/htdocs/hmvc/application",
+		"/C/xampp/htdocs/hmvc/application/modules",
+		"/C/xampp/htdocs/hmvc/application/modules/default_module/controllers",
+		"/C/xampp/htdocs/hmvc/application/modules/templates",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/views"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/hmvc/application/modules/site_settings/controllers/site_settings.php",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/views/homepage_content.php",
+		"/C/xampp/htdocs/hmvc/application/modules/bajuanak/controllers/bajuanak.php",
+		"/C/xampp/htdocs/hmvc/application/modules/bajuanakyang/controllers/bajuanakyang.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/views/view.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/controllers/store_items.php",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/controllers/templates.php",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/views/breadcrumbs_public_bootstrap.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/controllers/store_categories.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/views/view.php",
+		"/C/xampp/htdocs/hmvc/application/modules/custom_pagination/controllers/custom_pagination.php",
+		"/D/PROJECT/PHPproject/BackUp/InsiderClub/custom_pagination.php",
+		"/C/xampp/htdocs/hmvc/application/modules/pagination/controllers/pagination.php",
+		"/C/xampp/htdocs/hmvc/application/modules/babyandkids/controllers/babyandkids.php",
+		"/C/xampp/htdocs/hmvc/application/modules/babyandkid/controllers/babyandkid.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/controllers/blog.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/views/feed_hp.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/views/home.php",
+		"/C/xampp/htdocs/hmvc/application/modules/timedate/controllers/timedate.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/views/create.php",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/views/admin.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/views/upload_success.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/views/upload_image.php",
+		"/C/xampp/htdocs/hmvc/.htaccess",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/views/upload_success.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/views/create.php",
+		"/C/xampp/htdocs/hmvc/application/modules/site_security/controllers/site_security.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/views/deleteconf.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/controllers/webpages.php",
+		"/C/xampp/htdocs/hmvc/application/modules/blog/models/mdl_webpages.php",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/views/public_bootstrap.php",
+		"/C/xampp/htdocs/hmvc/application/modules/default_module/controllers/default_module.php",
+		"/C/xampp/htdocs/hmvc/application/modules/webpages/views/create.php",
+		"/C/xampp/htdocs/hmvc/application/modules/webpages/controllers/webpages.php",
+		"/C/xampp/htdocs/hmvc/application/config/routes.php",
+		"/C/xampp/htdocs/hmvc/application/modules/webpages/views/home.php",
+		"/C/xampp/htdocs/hmvc/application/modules/webpages/views/deleteconf.php",
+		"/C/xampp/htdocs/hmvc/application/modules/webpages/models/mdl_webpages.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/views/top_nav.php",
+		"/C/xampp/htdocs/hmvc/application/modules/music/controllers/music.php",
+		"/C/xampp/htdocs/hmvc/application/modules/musical/controllers/musical.php",
+		"/C/xampp/htdocs/hmvc/application/modules/templates/views/sort_this_code.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/views/sortable_list.php",
+		"/H/Project/hmvc/sort_this_code.php",
+		"/C/xampp/htdocs/hmvc/application/modules/site_setting/controllers/site_setting.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_cat_assign/views/update.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_cat_assign/controllers/store_cat_assign.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_cat_assign/models/mdl_store_cat_assign.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/views/home.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_accounts/controllers/store_accounts.php",
+		"/C/xampp/htdocs/hmvc/application/modules/dashboard/controllers/dashboard.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/views/create.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_categories/models/mdl_store_categories.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_accounts/views/update_pword.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_accounts/views/home.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_accounts/views/create.php",
+		"/C/xampp/htdocs/hmvc/application/modules/COPYTHIS/models/perfect_model.php",
+		"/C/xampp/htdocs/hmvc/application/modules/COPYTHIS/controllers/perfect_controller.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_accounts/models/mdl_store_accounts.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/views/home.php",
+		"/C/xampp/htdocs/hmvc/application/modules/cart/views/add_to_cart.php",
+		"/C/xampp/htdocs/hmvc/application/modules/cart/controllers/cart.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_item_sizes/controllers/store_item_sizes.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_item_sizes/views/update.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_item_sizes/models/mdl_store_item_sizes.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_item_colours/models/mdl_store_item_colours.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_item_colours/views/update.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_item_colours/controllers/store_item_colours.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/views/upload_image.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/models/mdl_store_items.php",
+		"/C/xampp/htdocs/CodeIgniter-Project-2013-master/application/config/routes.php",
+		"/H/Animated Login Form Labeled/AnimatedLoginFormLabeled.html",
+		"/C/Users/YUDI-ADI/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/YUDI-ADI/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/YUDI-ADI/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/YUDI-ADI/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/hmvc/assets/js/custom.js",
+		"/C/xampp/htdocs/hmvc/application/libraries/MY_Form_validation.php",
+		"/C/xampp/htdocs/hmvc/application/modules/store_items/models/mdl_perfectmodel.php",
+		"/C/xampp/htdocs/hmvc/application/controllers/defaultController.php",
+		"/C/xampp/htdocs/hmvc/application/modules/dashboard/views/dashboard.php",
+		"/C/xampp/htdocs/hmvc/application/modules/dashboard/views/dashboard",
+		"/C/xampp/htdocs/hmvc/application/config/config.php",
+		"/D/PROJECT/PHPproject/CopyCenter/perfect_controller.php",
+		"/D/PROJECT/PHPproject/CopyCenter/perfect_model.php",
+		"/C/xampp/htdocs/hmvc/application/config/autoload.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\hmvc\\application\\modules\\blog",
+			"C:\\xampp\\htdocs\\hmvc\\application\\modules\\store_accounts",
+			"C:\\xampp\\htdocs\\hmvc\\application\\modules\\store_item_sizes",
+			"C:\\xampp\\htdocs\\hmvc"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"murah",
+			"<",
+			"murah",
+			"indodesia_short",
+			"create",
+			"test",
+			"fetch_data_from_db",
+			"he pag",
+			"Page",
+			"Webpage",
+			"webpages",
+			"Webpages",
+			"webpages",
+			"headline",
+			"store_items",
+			"item_url",
+			"item_description",
+			"status",
+			"was_price",
+			"item_price",
+			"item_title",
+			"mdl_perfectcontroller",
+			"'store_items'",
+			"'store_categories'",
+			"'store_accounts'",
+			"status",
+			"item_title",
+			"store_items",
+			"perfectmodel",
+			"perfectcontroller",
+			"item",
+			"store_items",
+			"Item",
+			"store_items",
+			"Item",
+			"fetch_data_",
+			"Item",
+			"store_items",
+			"Item",
+			"perfectcontroller",
+			"Colour",
+			"colour",
+			"mdl_store_item_colours",
+			"mdl_perfectcontroller",
+			"mdl_perfectmodel",
+			"assets",
+			"records per page",
+			"record per page",
+			"row per page",
+			"here setti",
+			"btn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Blog Entry",
+			"Blog",
+			"blog",
+			"Blog",
+			"blog",
+			"page_headline",
+			"webpages",
+			"page_url",
+			"page_content",
+			"headline",
+			"page_description",
+			"page_keywords",
+			"page_title",
+			"mdl_webpages",
+			"mdl_store_cat_assign",
+			"'store_items/manage'",
+			"'store_categories/manage'",
+			"'store_accounts/manage'",
+			"parent_cat_id",
+			"cat_title",
+			"store_categories",
+			"account",
+			"store_accounts",
+			"Account",
+			"store_accounts",
+			"Account",
+			"store_accounts",
+			"Account",
+			"store_accounts",
+			"Size",
+			"size",
+			"mdl_store_item_sizes",
+			"mdl_store_item_colours",
+			"mdl_store_items",
+			"Mdl_store_items",
+			"assets/admin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/modules/templates/views/homepage_content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/modules/templates/views/public_bootstrap.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								935
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "hmvc.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
