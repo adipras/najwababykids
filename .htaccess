@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets|robots\.txt)
+RewriteCond $1 !^(index\.php|dist|robots\.txt)
+RewriteCond $1 !^(index\.php|big_pics|robots\.txt)
+RewriteCond $1 !^(index\.php|blog_pics|robots\.txt)
+RewriteCond $1 !^(index\.php|small_pics|robots\.txt)
+RewriteCond %{REQUEST_FILNAME} !-f
+RewriteCond %{REQUEST_FILNAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]
