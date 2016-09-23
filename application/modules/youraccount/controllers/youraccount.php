@@ -23,16 +23,27 @@ class Youraccount extends MX_Controller
             $this->form_validation->set_rules('pword', 'Password', 'required|min_length[7]|max_length[35]');
 
             if($this->form_validation->run() == TRUE) {
-                //get the variables
-                $this->_process_create_account();
-                echo "<h1>Account Created</h1>";
-                echo "<p>Please Sign In";
-                die();
+                //figure out the user_id
+                $col1 = 'username';
+                $value1 = $this->input->post('username', TRUE);
+                $col2 = 'email';
+                $value2 = $this->input->post('username', TRUE);
+                $query = $this->store_accounts->get_with_double_condition($col1, $value1, $col2, $value2);
+                foreach ($query->result() as $row) {
+                    $user_id = $row->id;
+                }
+
+                //send them to the private page
+                $this->_in_you_go($user_id);
             } else {
-            	$this->start();
+                echo validation_errors();
             }
         }
-	}
+    }
+
+    function _in_you_go($user_id) {
+        echo "sending user $user_id to the private area";
+    }
 
 	function submit() {
 		$submit = $this->input->post('submit', TRUE);
@@ -87,23 +98,35 @@ class Youraccount extends MX_Controller
 	}
 
     function username_check($str) {
-        $item_url = url_title($str);
-        $mysql_query = "select * from store_items where item_title = '$str' and item_url = '$item_url'";
+        $this->load->module('store_accounts');
+        $this->load->module('site_security');
 
-        $update_id = $this->uri->segment(3);
-        if(is_numeric($update_id)) {
-            //this is an update
-            $mysql_query .= " and id != $update_id";
+        $error_msg = "You did not enter a correct username and/or password.";
+
+        $col1 = 'username';
+        $value1 = $str;
+        $col2 = 'email';
+        $value2 = $str;
+        $query = $this->store_accounts->get_with_double_condition($col1, $value1, $col2, $value2);
+        $num_rows = $query->num_rows();
+        
+        if($num_rows<1) {
+            $this->form_validation->set_message('username_check', $error_msg);
+            return FALSE;
         }
 
-        $query = $this->_custom_query($mysql_query);
-        $num_rows = $query->num_rows();
+        foreach ($query->result() as $row) {
+            $pword_on_table = $row->pword;
+        }
 
-        if($num_rows>0) {
-            $this->form_validation->set_message('item_check', 'The item title that you submitted is not available');
-            return FALSE;
-        } else {
+        $pword = $this->input->post('pword', TRUE);
+        $result = $this->site_security->_verify_hash($pword, $pword_on_table);
+
+        if ($result==TRUE) {
             return TRUE;
+        } else {
+            $this->form_validation->set_message('username_check', $error_msg);
+            return FALSE;
         }
     }
 }

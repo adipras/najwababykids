@@ -221,10 +221,16 @@ class Store_accounts extends MX_Controller
 		$query = $this->mdl_store_accounts->get_where($id);
 		return $query;
 	}
+    
+    function get_where_custom($col, $value) {
+        $this->load->model('mdl_store_accounts');
+        $query = $this->mdl_store_accounts->get_where_custom($col, $value);
+        return $query;
+    }
 	
-	function get_where_custom($col, $value) {
+	function get_with_double_condition($col1, $value1, $col2, $value2) {
 		$this->load->model('mdl_store_accounts');
-		$query = $this->mdl_store_accounts->get_where_custom($col, $value);
+		$query = $this->mdl_store_accounts->get_with_double_condition($col1, $value1, $col2, $value2);
 		return $query;
 	}
 	
